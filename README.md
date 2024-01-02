@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/muhamad-aqil-farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-aqil-farhan" height="30" width="40" /></a>
 <a href="https://fb.com/kawaguchimaedaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawaguchimaedaofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/kawaguchi_maeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawaguchi_maeda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kawaguchi_maeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawaguchi_maeda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Kawaguchi_Maeda?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawaguchi_maeda" height="30" width="40" /></a>
 <a href="https://discord.gg/kawaguchimaeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kawaguchimaeda" height="30" width="40" /></a>
 </p>
 
