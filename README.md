@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aqil@kawaguchimaeda.com**
 
-- ⚡ Fun fact **I Think I Loyal**
+- ⚡ Fun fact **I think I am loyal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
